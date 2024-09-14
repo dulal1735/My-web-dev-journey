@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My favorite Movies</title>
+</head>
+<body>
+  <h1>My favorite movies</h1>
+  <h2>Top movies I like and would recommand to my friends</h2>
+  <hr>
+  <h3>Saving Private Ryan</h3>
+  <p>This movie is related to war that happened on Omaha beach</p>
+  <h3>Interstaller</h3>
+  <p>This is one of my most favorite movie. I shows about 4<sup>th</sup> dimension and black holes. One must watch this movie in his/her lifetime</p>
+  
+</body>
+</html>
